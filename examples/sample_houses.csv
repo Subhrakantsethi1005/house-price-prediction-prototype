@@ -1,0 +1,5 @@
+Size,NumberOfRooms,Bathrooms,Floors,ParkingSpaces,PropertyAge,DistanceToCityCenter,Location,Amenities,FurnishingStatus
+2200,4,2,2,2,12,11.5,Suburb,Garden,Semi-Furnished
+1450,3,1,1,1,25,2.2,Downtown,Gym,Fully-Furnished
+3100,5,3,2,3,8,6.0,Waterfront,Pool,Fully-Furnished
+1800,2,1,1,1,40,32.4,Rural,Garden,Unfurnished

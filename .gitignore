@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+.pytest_cache/
+pytest-cache-files-*/
+
+# Local data and model artifacts
+data/*.csv
+models/*.joblib
+reports/*.json
+reports/*.csv
+
+# Keep folder placeholders
+!data/.gitkeep
+!models/.gitkeep
+!reports/.gitkeep
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
