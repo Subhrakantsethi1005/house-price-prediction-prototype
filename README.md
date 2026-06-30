@@ -53,19 +53,22 @@ Price
 
 ```text
 .
-|-- House Prediction Model (1).ipynb
 |-- README.md
 |-- SYNTHETIC_DATA.md
 |-- DATA_SCHEMA.md
 |-- MODEL_CARD.md
 |-- PROJECT_REPORT.md
+|-- CONTRIBUTING.md
+|-- AUTHORS.md
 |-- requirements.txt
+|-- pytest.ini
 |-- .gitignore
 |-- LICENSE
 |-- data/
 |-- examples/
 |   |-- sample_houses.csv
 |-- models/
+|-- notebooks/
 |-- reports/
 |-- src/
 |   |-- __init__.py
